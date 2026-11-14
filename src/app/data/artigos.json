@@ -1,0 +1,24 @@
+{
+    "artigos":[
+        {
+            "titulo":"Novo Carro da Tesla Sobe nas paredes",
+            "autor":"Gabriel",
+            "texto": "Tesla Roadster faz uma apresentação histórica supreedente, subindo em  letamente em uma rampa com inclinação 90 graus, logo em seguida, dando uma salto como propulsão de gás. A Tesla, Inc. é uma das empresas pioneiras na indústria automobilística focada em veículos elétricos e soluções de energia sustentável. Fundada em 2003, a companhia, liderada por Elon Musk, tem conquistado o mercado com sua inovação tecnológica, design arrojado e compromisso com a sustentabilidade.\nOs veículos da Tesla, incluindo o Model S, Model 3, Model X e Model Y, são conhecidos por sua performance impressionante, autonomia prolongada e sistemas modernos de assistência ao motorista, como o Autopilot. Essas características têm atraído tanto consumidores preocupados com o meio ambiente quanto entusiastas da tecnologia.\nAlém dos automóveis, a Tesla também tem se destacado na produção de baterias e sistemas de armazenamento de energia, como os produtos Powerwall e Powerpack. Essa divisão é crucial para promover uma matriz energética mais limpa, permitindo que residências e empresas utilizem energias renováveis, como a solar, de maneira mais eficiente.\n O crescimento da Tesla não se limita aos Estados Unidos; a empresa tem expandido sua presença global com fábricas, conhecidas como Gigafactories, em diferentes partes do mundo, incluindo a china e a Europa. Essa estratégia é essencial para atender à demanda crescente por veículos elétricos, impulsionada por políticas governamentais que incentivam a redução das emissões de carbono. "
+        },
+        {
+            "titulo":"Segundo texto",
+            "autor":"Maria",
+            "texto": "O Segundo Texto é uma abordagem que enfatiza a importância da interpretação e reinterpretação de obras literárias. Ele explora como diferentes contextos históricos e sociais influenciam a leitura, destacando a subjetividade da experiência literária. Essa perspectiva enriquece a análise, ao permitir múltiplas camadas de significado e compreensão"
+        },
+        {
+            "titulo":"Terceiro artigo",
+            "autor":"Maria",
+            "texto": "Texto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro ArtigoTexto do terceiro ArtigoTexto do terceiro Artigo Texto do terceiro ArtigoTexto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro Artigo Texto do terceiro Artigo "
+        },
+        {
+            "titulo":"Quarto artigo",
+            "autor":"Maria",
+            "texto": "Quarto texto do artigo Quarto texto do artigo Quarto texto do artigo Quarto texto do artigo Quarto texto do artigo Quarto texto do artigo Quarto texto do artigoQuarto texto do artigo Quarto texto do artigo Quarto texto do artigo Quarto texto do artigo Quarto texto do artigo  Quarto texto do artigo Quarto texto do artigo Quarto texto do artigo Quarto texto do artigo Quarto texto do artigo  "
+        }
+    ]
+}
