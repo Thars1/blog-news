@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Sobre o Projeto
+Este projeto utiliza o next.js em conjunto com typescrpit para criar rotas dinâmicas para um blog com um conjunto de artigos. Bem como a estilização via Tailwind CSS
+
+
+his is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
