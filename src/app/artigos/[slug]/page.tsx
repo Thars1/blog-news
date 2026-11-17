@@ -16,7 +16,7 @@ type Props ={
 
 export const instant = false;
 
-export const generateMetaData = async ({params}: Props) =>{
+export const generateMetadata = async ({params}: Props) =>{
     const {slug} = await params;
     const details = dados.artigos.find((a:Artigo)=> criarSlug(a.titulo) === slug);
     if(!details)
@@ -24,7 +24,7 @@ export const generateMetaData = async ({params}: Props) =>{
 
     if(details){
         return{
-            title: `${details.titulo} | Cinelista`,
+            title: `${details.titulo} | BlogNews`,
             description: details.texto,
             openGraph: {
                 title: `${details.titulo} | Cinelista`,
